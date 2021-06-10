@@ -4,8 +4,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkpurcell&theme=dracula&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mkpurcell&theme=dark)](https://git.io/streak-stats)
 
 <!--
